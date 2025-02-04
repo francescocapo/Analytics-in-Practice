@@ -6,8 +6,10 @@ The model will help Nile optimize its review collection process and efficiently 
 
 ## Project Structure
 
-Jupiter_notebook.ipynb: Jupyter notebooks with the analysis
+- Jupiter_notebook.ipynb: Jupyter notebooks with the analysis
+
 Report.pdf: Technical report and future suggestions
+
 Datasets:
   -	olist_customers_dataset.csv: contains customer information like location and unique identifiers
   -	olist_order_items_dataset.csv: details of individual items in each order, including price and freight cost
