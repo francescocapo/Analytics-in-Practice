@@ -6,7 +6,7 @@ The model will help Nile optimize its review collection process and efficiently 
 
 ## Project Structure
 
-- Jupiter_notebook.ipynb: Jupyter notebooks with the analysis
+Jupiter_notebook.ipynb: Jupyter notebooks with the analysis
 
 Report.pdf: Technical report and future suggestions
 
