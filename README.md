@@ -1,6 +1,6 @@
 # Analytics-in-Practice
 
-This project is part of the Analytics in Practice module at the University of Warwick. The goal is to develop a predictive model for an eCommerce platform, “Nile” to determine which customers are most likely to leave positive reviews.
+This project is part of the Analytics in Practice module at University of Warwick. The goal is to develop a predictive model for an eCommerce platform, “Nile” to determine which customers are most likely to leave positive reviews.
 
 The model will help Nile optimize its review collection process and efficiently allocate resources to incentivize positive customer feedback.
 
